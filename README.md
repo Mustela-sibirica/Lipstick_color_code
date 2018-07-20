@@ -1,2 +1,2 @@
 # Lipstick_color_code
-Databases and tools of Lipstick color code.
+Databases and tools of lipstick color code.
